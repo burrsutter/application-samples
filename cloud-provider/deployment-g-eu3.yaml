@@ -24,7 +24,7 @@ spec:
         - name: CLOUD_PROVIDER
           value: "Google"
         - name: ZONE
-          value: "europe-west3"
+          value: "australia-southeast1"
         volumeMounts:
           - mountPath: /app/provider
             name: cache-provider

@@ -12,5 +12,5 @@ spec:
   clusterSelector:
     matchLabels:
       cloud: Amazon
-      region: eu-west-3
+      region: eu-west-1
   #clusterReplicas: 1  #Apply to how many matched clusters, default is ALL
